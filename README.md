@@ -50,8 +50,8 @@ If you prefer running from source or customizing the Python code:
 
 1. Clone or extract the repository:
    ```bash
-   git clone https://github.com/your-username/localhost-hub.git
-   cd localhost-hub
+   git clone https://github.com/Kartikkumar1568/local-to-global-server.git
+   cd local-to-global-server
    ```
 2. Double-click **`start.bat`** (It will automatically detect your environment, auto-install Python 3.12 if missing, install dependencies, and launch the server).
 3. Or launch manually via terminal:
